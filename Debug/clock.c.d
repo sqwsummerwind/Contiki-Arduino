@@ -1,0 +1,22 @@
+C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\clock.c.o: \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\clock.c \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/Arduino.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/stdlib_noniso.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/binary.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/esp8266_peri.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0/tools/sdk/include/c_types.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/twi.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/Arduino.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266/core_esp8266_features.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\variants\nodemcu/pins_arduino.h \
+ C:\Users\sumas\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\variants\nodemcu/../generic/common.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\clock.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\contiki-conf.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\clock-avr.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\etimer.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\timer.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\process.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\pt.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\lc.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\lc-switch.h \
+ C:\Users\sumas\AppData\Local\Temp\VMBuilds\contiki\esp8266_nodemcuv2\Debug\cc.h
